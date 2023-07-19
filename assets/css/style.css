@@ -914,7 +914,17 @@ section {
 .services .iconbox-red:hover .icon path {
   fill: #ff5828;
 }
+.services .iconbox-green i {
+  color: #12f94c;
+}
 
+.services .iconbox-green:hover .icon i {
+  color: #fff;
+}
+
+.services .iconbox-green:hover .icon path {
+  fill: #12f94c;
+}
 .services .iconbox-teal i {
   color: #11dbcf;
 }
