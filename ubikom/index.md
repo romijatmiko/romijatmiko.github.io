@@ -1,50 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>Contoh Format Project Ubiquitous Computing</title>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/default.min.css">
-    <link rel="stylesheet" href="/styles/style.css"> 
-
-    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
-
-    <script type="module">
-      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-    </script>
-
-    <script src="/scripts/default.js"></script>
-    <script>
-      hljs.highlightAll();
-    </script>
-  </head>
-  <body>
-    <div class="top-menu">
-      <a href="/">Home</a>
-      <a href="/courses">Courses</a>
-      <a href="/rnd">RnD</a>
-      <a href="/blog">Blog</a>
-    </div> 
-  
-    <div class="container mt-2">
-      <a href="/courses/ubicom">
-        &laquo; Ubiquitous Computing
-      </a>
-      <h1>
-        <a href="/courses/ubicom/contoh-format-project">
-          Contoh Format Project Ubiquitous Computing
-        </a>
-      </h1>
-      <a href="/">Muhammad Insan Al-Amin</a> - Oct 9, 2023
-    </div>
-
-    <div class="container mt-4">
-      <div x-init="" x-html="mdToHTML($el.innerHTML)" class="row mt-2">
 ## Intro 
 - Artikel ini membahas contoh dokumen pembangunan teknologi UbiCom dengan tema Automatic Mental and Physical Refreshment using Smart Home Technologies 
 
@@ -185,7 +139,6 @@ Pada tahap ini kita menjelaskan setiap teknologi hardware dan software yang digu
 - Pada tahap ini kita mengeksplorasi alur interaksi pengguna yang paling praktis dan efektif untuk setiap fitur.
 - Ada banyak tools yang bisa digunakan mulai dari yang open source seperti [**Inkscape** (yang saya gunakan)](https://inkscape.org/), Penpot, lalu yang gratis hingga berbayar seperti Figma.
 
-      </div>
     </div> 
 
   </body>
