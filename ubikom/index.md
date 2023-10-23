@@ -1,6 +1,6 @@
 
 ## Intro 
-- Artikel ini membahas contoh dokumen pembangunan teknologi UbiCom dengan tema Automatic Mental and Physical Refreshment using Smart Home Technologies 
+- 
 
 ## Latar Belakang 
 Dalam era modern, orang tua menghadapi tantangan besar dalam memantau dan memahami perkembangan anak-anak mereka. Dengan gaya hidup yang sibuk, komunikasi yang kurang dan perjalanan harian yang sering tidak terawasi, muncul kebutuhan akan solusi yang dapat memberikan pemantauan yang lebih efektif terhadap anak-anak. Dalam konteks ini, saya mengusulkan Inovasi SecureKids Aplikasi Mobile Pemantau Anak yang akan membantu orang tua memantau anak-anak mereka dengan lebih efisien dan efektif.
@@ -35,10 +35,7 @@ User story [[1]](https://www.mountaingoatsoftware.com/agile/user-stories) memuda
 ## Metode dan Algoritma 
 Pada tahap ini kita menjelaskan metode dan algoritma yang digunakan pada setiap komponen teknologi UbiCom. Contoh:
 - Sensor:
-  - Face recognition: MobileNet. penjelasan . . .
-  - Expression recognition: MobileNet. penjelasan . . .
-  - Gesture recognition: YOLOv7. penjelasan . . .
-  - Speech recognition: PANN. penjelasan . . .
+  - Speech recognition
   - Fuzzy logic
 - Responder:
   - Speech synthesis: ASGAN
@@ -122,13 +119,10 @@ Pada tahap ini kita menjelaskan setiap teknologi hardware dan software yang digu
   - Backend developer: FastAPI. Penjelasan . . .
   - PubSub: NATS. Penjelasan . . .
 - Sensor 
-  - CCTV: Merk. Penjelasan . . .
   - Mic: Merk. Penjelasan . . .
-  - Sensor temperature: Merk. Penjelasan . . .
-  - Web service cuaca: URL. Penjelasan . . .
+  - GPS: Merk. Penjelasan . . .
 - Responder 
-  - Mic: Merk. Penjelasan . . .
-  - Lampu: Merk. Penjelasan . . .
+  - tidak ada
 
 ## User Experience (UX) Design 
 [figma](https://www.figma.com/file/25X3nEDWY43rm7T8f03P2c/Untitled?type=design&node-id=0%3A1&mode=design&t=tARznfszltsGoiyb-1)
