@@ -31,9 +31,6 @@ User story [[1]](https://www.mountaingoatsoftware.com/agile/user-stories) memuda
 |Sebagai pengembang sistem|&raquo; Mengatur Lock Aplikasi, Artinya orang tua bisa mengunci aplikasi dalam kurun waktu tertentu |Anak bisa kurang dalam bermain game/aplikasi yang tidak berguna|⭐⭐⭐⭐|
 |Sebagai pengembang sistem|&raquo; Menampilkan banyaknya waktu bermain sebuah aplikasi |Bisa memantau waktu bermain anak|⭐⭐⭐⭐⭐|
 |Sebagai pengembang sistem|menampilkan kata kunci atau apa saja yang anak ketik pada search engine seperti google atau yang lainnya |Orang tua  bisa lebih terbantu dalam memonitoring anak|⭐⭐⭐⭐⭐|
-|Sebagai pengembang sistem|&raquo; Memberikan respon berupa suara orang yang menyesuaikan kondisi fisik dan mental|Pengguna bisa lebih terbantu kondisi mental dan fisiknya|⭐⭐⭐⭐⭐|
-|Sebagai pengembang sistem|&raquo; Memberikan respon berupa musik latar yang menyesuaikan kondisi fisik dan mental|Pengguna bisa lebih terbantu kondisi mental dan fisiknya|⭐⭐⭐⭐|
-|Sebagai pengembang sistem|&raquo; Memberikan respon berupa pencahayaan yang menyesuaikan kondisi fisik dan mental|Pengguna bisa lebih terbantu kondisi mental dan fisiknya|⭐⭐⭐|
 
 ## Metode dan Algoritma 
 Pada tahap ini kita menjelaskan metode dan algoritma yang digunakan pada setiap komponen teknologi UbiCom. Contoh:
@@ -135,10 +132,8 @@ Pada tahap ini kita menjelaskan setiap teknologi hardware dan software yang digu
 
 ## User Experience (UX) Design 
 
-- Pada tahap ini kita mengeksplorasi alur interaksi pengguna yang paling praktis dan efektif untuk setiap fitur.
-- Ada banyak tools yang bisa digunakan mulai dari yang open source seperti [**Inkscape** (yang saya gunakan)](https://inkscape.org/), Penpot, lalu yang gratis hingga berbayar seperti Figma.
+[**LINK** (yang saya gunakan)]([https://inkscape.org/](https://www.figma.com/file/25X3nEDWY43rm7T8f03P2c/Untitled?type=design&node-id=0-1&mode=design&t=tARznfszltsGoiyb-0)https://www.figma.com/file/25X3nEDWY43rm7T8f03P2c/Untitled?type=design&node-id=0-1&mode=design&t=tARznfszltsGoiyb-0), 
 
     </div> 
 
   </body>
-</html>
