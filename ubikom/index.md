@@ -131,4 +131,4 @@ Pada tahap ini kita menjelaskan setiap teknologi hardware dan software yang digu
   - Lampu: Merk. Penjelasan . . .
 
 ## User Experience (UX) Design 
-[Your Link](http://yourlink.com)
+[figma]([http://yourlink.co](https://www.figma.com/file/25X3nEDWY43rm7T8f03P2c/Untitled?type=design&node-id=0%3A1&mode=design&t=tARznfszltsGoiyb-1)https://www.figma.com/file/25X3nEDWY43rm7T8f03P2c/Untitled?type=design&node-id=0%3A1&mode=design&t=tARznfszltsGoiyb-1m)
