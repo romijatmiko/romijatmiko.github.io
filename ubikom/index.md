@@ -51,7 +51,7 @@ Pada tahap ini kita menjelaskan setiap teknologi hardware dan software yang digu
   - PostgreSQL
 - Software development
   - Mobile Front End: Kotlin.
-  - Backend stack: FastAPI.
+  - Backend stack: Belum Fix, tapi pastinya menggunakan bahasa python.
 - Sensor 
   - Mic: Default dari hp
   - GPS: Default dari hp
