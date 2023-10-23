@@ -34,10 +34,12 @@ User story [[1]](https://www.mountaingoatsoftware.com/agile/user-stories) memuda
 
 ## Metode dan Algoritma 
 - Pemrosesan Data Suara: Untuk mendeteksi kata-kata kunci yang mencurigakan dalam percakapan anak, menggunakan metode pemrosesan data suara dan algoritma pemrosesan bahasa alami (Natural Language Processing - NLP). Data suara diperoleh dari sensor mic pada hp android, ini akan memungkinkan sistem untuk menganalisis dan mengenali kata-kata yang tidak sesuai atau berpotensi berbahaya yang diucapkan oleh anak.
-- Pelacakan Lokasi: Untuk melacak lokasi anak dengan akurat, saya akan menggunakan GPS (Global Positioning System) pada perangkat anak. Algoritma pelacakan akan memungkinkan kami untuk mendapatkan data lokasi secara real-time dan mengirimkannya ke server pusat.
+- Pelacakan Lokasi: Untuk melacak lokasi anak dengan akurat, saya akan menggunakan GPS (Global Positioning System) pada perangkat anak. Algoritma pelacakan akan memungkinkan saya untuk mendapatkan data lokasi secara real-time dan mengirimkannya ke server pusat.
+- Report lokasi harian, menampilkan rekapan lokasi anak kemana saja
+- Report Kata-kata anak yang diucapkan, menampilkan rekapan kata2 anak dari algortima NLP
 - Pengaturan Lock Aplikasi: Untuk mengatur waktu akses dan pembatasan aplikasi, sistem akan menggunakan algoritma manajemen waktu dan akses. Orang tua akan dapat mengunci akses ke aplikasi dalam kurun waktu tertentu.
 - Pemantauan Aktivitas Anak: Kami akan menggunakan algoritma pemantauan waktu bermain dan aktivitas anak. Ini akan memungkinkan sistem untuk melacak berapa lama anak bermain aplikasi tertentu dan memberikan laporan kepada orang tua.
-- Analisis Pencarian dan Aktivitas Online: Untuk menganalisis kata kunci dan apa yang anak ketik pada mesin pencarian seperti Google, kami akan menggunakan algoritma analisis teks dan pencarian.
+- Analisis Pencarian dan Aktivitas Online: Untuk menganalisis kata kunci dan apa yang anak ketik pada mesin pencarian seperti Google
 ## Arsitektur Sistem 
 Belum
 ## Deskripsi Teknologi 
