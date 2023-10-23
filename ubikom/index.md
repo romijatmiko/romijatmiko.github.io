@@ -33,8 +33,11 @@ User story [[1]](https://www.mountaingoatsoftware.com/agile/user-stories) memuda
 |Sebagai pengembang sistem|menampilkan kata kunci atau apa saja yang anak ketik pada search engine seperti google atau yang lainnya |Orang tua  bisa lebih terbantu dalam memonitoring anak|⭐⭐⭐⭐⭐|
 
 ## Metode dan Algoritma 
-Belum Pak
-
+- Pemrosesan Data Suara: Untuk mendeteksi kata-kata kunci yang mencurigakan dalam percakapan anak, kami akan menggunakan metode pemrosesan data suara dan algoritma pemrosesan bahasa alami (Natural Language Processing - NLP). Data suara diperoleh dari sensor mic pada hp android, ini akan memungkinkan sistem untuk menganalisis dan mengenali kata-kata yang tidak sesuai atau berpotensi berbahaya yang diucapkan oleh anak.
+- Pelacakan Lokasi: Untuk melacak lokasi anak dengan akurat, saya akan menggunakan GPS (Global Positioning System) pada perangkat anak. Algoritma pelacakan akan memungkinkan kami untuk mendapatkan data lokasi secara real-time dan mengirimkannya ke server pusat.
+- Pengaturan Lock Aplikasi: Untuk mengatur waktu akses dan pembatasan aplikasi, sistem akan menggunakan algoritma manajemen waktu dan akses. Orang tua akan dapat mengunci akses ke aplikasi dalam kurun waktu tertentu.
+- Pemantauan Aktivitas Anak: Kami akan menggunakan algoritma pemantauan waktu bermain dan aktivitas anak. Ini akan memungkinkan sistem untuk melacak berapa lama anak bermain aplikasi tertentu dan memberikan laporan kepada orang tua.
+- Analisis Pencarian dan Aktivitas Online: Untuk menganalisis kata kunci dan apa yang anak ketik pada mesin pencarian seperti Google, kami akan menggunakan algoritma analisis teks dan pencarian.
 ## Arsitektur Sistem 
 Belum
 ## Deskripsi Teknologi 
@@ -42,6 +45,8 @@ Pada tahap ini kita menjelaskan setiap teknologi hardware dan software yang digu
 - Mesin komputasi
   - Cloud server: AWS EC2 Debian.
   - Smart phone: Android Only
+- Database
+  - PostgreSQL
 - Software development
   - Mobile Front End: Kotlin.
   - Backend stack: FastAPI.
