@@ -3,7 +3,7 @@
 - Artikel ini membahas contoh dokumen pembangunan teknologi UbiCom dengan tema Automatic Mental and Physical Refreshment using Smart Home Technologies 
 
 ## Latar Belakang 
-Dalam era modern, orang tua menghadapi tantangan besar dalam memantau dan memahami perkembangan anak-anak mereka. Dengan gaya hidup yang sibuk, komunikasi yang kurang dan perjalanan harian yang sering tidak terawasi, muncul kebutuhan akan solusi yang dapat memberikan pemantauan yang lebih efektif terhadap anak-anak. Dalam konteks ini, kami mengusulkan Inovasi Smart Watch Pemantau Anak yang akan membantu orang tua memantau anak-anak mereka dengan lebih efisien dan efektif.
+Dalam era modern, orang tua menghadapi tantangan besar dalam memantau dan memahami perkembangan anak-anak mereka. Dengan gaya hidup yang sibuk, komunikasi yang kurang dan perjalanan harian yang sering tidak terawasi, muncul kebutuhan akan solusi yang dapat memberikan pemantauan yang lebih efektif terhadap anak-anak. Dalam konteks ini, saya mengusulkan Inovasi SecureKids Aplikasi Mobile Pemantau Anak yang akan membantu orang tua memantau anak-anak mereka dengan lebih efisien dan efektif.
 
 ## Branding 
 Pada tahap ini kita mengeksplorasi *branding* dari produk UbiCom yang dibuat. Contoh:
