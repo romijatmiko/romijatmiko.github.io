@@ -7,16 +7,17 @@ Dalam era modern, orang tua menghadapi tantangan besar dalam memantau dan memaha
 
 ## Branding 
 Pada tahap ini kita mengeksplorasi *branding* dari produk UbiCom yang dibuat. Contoh:
-- Merk: **Piperair** 
-- Inspirasi merk: Nama latin daun sirih (Pipera) yang dipakai banyak sebagai penyembuh, serta air yang berarti udara
-- Tagline: Teknologi rumah penyembuh 
+- Merk: **SecureKids** 
+- Inspirasi merk: SecureKids merujuk pada keselamatan dan keamanan anak-anak. Ini mencerminkan fokus produk pada melindungi anak-anak dan memberikan rasa aman kepada orang tua.
+- Tagline: Pemantau Anak Cerdas, Keselamatan Prioritas
 - Campaign: Bagaimana menjadikan rumah / kostan / kontrakan dan perangkat wearable yang dimiliki sebagai pendukung penyegaran kondisi mental dan fisik
 - Target user:
-  - Usia 7+ 
-  - Memiliki indikasi masalah kesehatan mental dan fisik 
+  - Usia 23+ (Seorang ayah/ ibu)
+  - Sibuk dan tidak punya waktu memantau anak
+  - Khawatir dengan tumbuh kembang anak
+  - Ingin mengawasi seluruh perkembangan anak
 - User experience theme:
-  - Mudah dikonfigurasi dan digunakan
-  - Terknoneksi dengan aplikasi berbasis mobile 
+  - Aplikasi Mobile Android
 
 ## User Story
 Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk kita wujudkan sebagai fitur pada sistem atau aplikasi yang akan dibuat.
@@ -24,15 +25,15 @@ User story [[1]](https://www.mountaingoatsoftware.com/agile/user-stories) memuda
 
 |Sebagai|Saya ingin bisa|Sehingga|Prioritas
 |---|---|---|---|
-|Sistem|Merekognisi kondisi mental dan fisik pengguna|Bisa memilih respon yang sesuai untuk pengguna|⭐⭐⭐⭐⭐|
-|Sistem smart home|&raquo; Merekognisi kondisi mental dan fisik dari citra ekspresi wajah dari CCTV|Bisa menjadi input kalkulasi respon yang sesuai untuk pengguna|⭐⭐⭐⭐⭐|
-|Sistem smart home|&raquo; Merekognisi kondisi mental dan fisik dari citra gestur tubuh dari CCTV|Bisa menjadi input kalkulasi respon yang sesuai untuk pengguna|⭐⭐⭐|
-|Sistem smart home|&raquo; Merekognisi kondisi mental dan fisik dari suara dari mic|Bisa menjadi input kalkulasi respon yang sesuai untuk pengguna|⭐⭐⭐⭐|
-|Sistem|&raquo; Merekognisi kondisi lingkungan seperti jam, musim, cuaca, dan temperatur udara|Bisa menjadi input kalkulasi respon yang sesuai untuk pengguna|⭐⭐⭐⭐⭐|
-|Sistem|Memberikan respon yang membantu penyegaran kondisi mental dan fisik|Pengguna bisa lebih terbantu kondisi mental dan fisiknya|⭐⭐⭐⭐⭐|
-|Sistem smart home|&raquo; Memberikan respon berupa suara orang yang menyesuaikan kondisi fisik dan mental|Pengguna bisa lebih terbantu kondisi mental dan fisiknya|⭐⭐⭐⭐⭐|
-|Sistem smart home|&raquo; Memberikan respon berupa musik latar yang menyesuaikan kondisi fisik dan mental|Pengguna bisa lebih terbantu kondisi mental dan fisiknya|⭐⭐⭐⭐|
-|Sistem smart home|&raquo; Memberikan respon berupa pencahayaan yang menyesuaikan kondisi fisik dan mental|Pengguna bisa lebih terbantu kondisi mental dan fisiknya|⭐⭐⭐|
+|Sebagai pengembang sistem|saya ingin memastikan bahwa sistem dapat melakukan pemrosesan data suara|sehingga sistem dapat mendeteksi kata-kata kunci yang mencurigakan dalam percakapan anak.|⭐⭐⭐⭐⭐|
+|Sebagai pengembang sistem|&raquo; saya ingin mengintegrasikan sensor GPS ke dalam perangkat pemantauan anak |sehingga saya dapat melacak lokasi anak dengan akurat.|⭐⭐⭐⭐⭐|
+|Sebagai pengembang sistem|&raquo; saya ingin memastikan sistem dapat mengirim data lokasi anak ke server cloud secara real-time melalui koneksi yang aman|⭐⭐⭐|
+|Sebagai pengembang sistem|&raquo; Merekognisi kondisi mental dan fisik dari suara dari mic|Bisa menjadi input kalkulasi respon yang sesuai untuk pengguna|⭐⭐⭐⭐|
+|Sebagai pengembang sistem|&raquo; Merekognisi kondisi lingkungan seperti jam, musim, cuaca, dan temperatur udara|Bisa menjadi input kalkulasi respon yang sesuai untuk pengguna|⭐⭐⭐⭐⭐|
+|Sebagai pengembang sistem|Memberikan respon yang membantu penyegaran kondisi mental dan fisik|Pengguna bisa lebih terbantu kondisi mental dan fisiknya|⭐⭐⭐⭐⭐|
+|Sebagai pengembang sistem|&raquo; Memberikan respon berupa suara orang yang menyesuaikan kondisi fisik dan mental|Pengguna bisa lebih terbantu kondisi mental dan fisiknya|⭐⭐⭐⭐⭐|
+|Sebagai pengembang sistem|&raquo; Memberikan respon berupa musik latar yang menyesuaikan kondisi fisik dan mental|Pengguna bisa lebih terbantu kondisi mental dan fisiknya|⭐⭐⭐⭐|
+|Sebagai pengembang sistem|&raquo; Memberikan respon berupa pencahayaan yang menyesuaikan kondisi fisik dan mental|Pengguna bisa lebih terbantu kondisi mental dan fisiknya|⭐⭐⭐|
 
 ## Metode dan Algoritma 
 Pada tahap ini kita menjelaskan metode dan algoritma yang digunakan pada setiap komponen teknologi UbiCom. Contoh:
