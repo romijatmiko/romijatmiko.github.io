@@ -12,7 +12,7 @@ Pada tahap ini kita mengeksplorasi *branding* dari produk UbiCom yang dibuat. Co
 - Tagline: Pemantau Anak Cerdas, Keselamatan Prioritas
 - Campaign: Bagaimana menjadikan rumah / kostan / kontrakan dan perangkat wearable yang dimiliki sebagai pendukung penyegaran kondisi mental dan fisik
 - Target user:
-  - Usia 23+ (Seorang ayah/ ibu)
+  - Seorang ayah/ ibu
   - Sibuk dan tidak punya waktu memantau anak
   - Khawatir dengan tumbuh kembang anak
   - Ingin mengawasi seluruh perkembangan anak
