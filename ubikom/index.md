@@ -33,94 +33,21 @@ User story [[1]](https://www.mountaingoatsoftware.com/agile/user-stories) memuda
 |Sebagai pengembang sistem|menampilkan kata kunci atau apa saja yang anak ketik pada search engine seperti google atau yang lainnya |Orang tua  bisa lebih terbantu dalam memonitoring anak|⭐⭐⭐⭐⭐|
 
 ## Metode dan Algoritma 
-Pada tahap ini kita menjelaskan metode dan algoritma yang digunakan pada setiap komponen teknologi UbiCom. Contoh:
-- Sensor:
-  - Speech recognition
-  - Fuzzy logic
-- Responder:
-  - Speech synthesis: ASGAN
-  - Fuzzy logic
-- Mobile software development
-- Edge software development
-
-## Struktur Data 
-Pada tahap ini kita mengeksplorasi struktur data yang digunakan pada teknologi UbiCom. Contoh:
-
-<pre class="mermaid">
-erDiagram
-  PENGGUNA {
-    int id_pengguna
-    string username
-    string email
-    string password
-    string nama_lengkap
-    vector model_wajah
-  }
-  PENGGUNA ||--o{ KONDISI : dideteksi 
-  KONDISI {
-    int id_kondisi
-    int id_pengguna
-    int id_tipe_kondisi
-    datetime waktu_deteksi
-  }
-  KONDISI ||--o{ RESPON : diberikan 
-  RESPON {
-    int id_respon
-    int id_kondisi
-    int id_tipe_respon
-    json konten_respon
-    datetime waktu_respon
-  }
-</pre>
-- Pada tahap ini kita mengeksplorasi dan menganalisis bentuk struktur data yang mampu memfasilitasi *user story* yang ada, maupun yang kemungkinan besar dibutuhkan di kemudian hari
-- Kita akan merepresentasikan Entitas pada aplikasi dalam bentuk tabel Entitas dan Atribut
+Belum mikir
 
 ## Arsitektur Sistem 
-<pre class="mermaid">
-flowchart BT 
-  subgraph cloud server
-    WS1[Web service: Python] <--> BE1[Database: PostgreSQL]
-  end
-
-  subgraph edge server: Raspberry Pi
-    BE2[Program Deteksi: Python] 
-    BE3[Program Respon: Python] 
-    BE2 --> BE4[Broker: NATS]
-    BE3 <--> BE4
-    BE4 <--> BE5[Cloud communicator: Python]
-    BE5 --> WS1
-  end
-
-  subgraph mobile phone 
-    MA1[Mobile app: Flutter] <--> WS1
-  end
-
-  subgraph sensors 
-    S1[CCTV] --> BE2 
-    S2[Mic] --> BE2 
-    S3[Sensor] --> BE2 
-  end
-  subgraph responders 
-
-    BE3 --> R1[Speaker] 
-    BE3 --> R2[Lampu] 
-  end
-</pre>
-Pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada setiap komponen pembentuk aplikasi.
-
+Belum
 ## Deskripsi Teknologi 
 Pada tahap ini kita menjelaskan setiap teknologi hardware dan software yang digunakan dalam pembangunan sistem. Contoh:
 - Mesin komputasi
-  - Edge server: Raspberry Pi. Penjelasan . . .
-  - Cloud server: AWS EC2 Debian. Penjelasan . . . 
-  - Smart phone: Android & iPhone. Penjelasan . . .
+  - Cloud server: AWS EC2 Debian.
+  - Smart phone: Android Only
 - Software development
-  - Mobile development: Flutter. Penjelasan . . .
-  - Backend developer: FastAPI. Penjelasan . . .
-  - PubSub: NATS. Penjelasan . . .
+  - Mobile Front End: Kotlin.
+  - Backend stack: FastAPI.
 - Sensor 
-  - Mic: Merk. Penjelasan . . .
-  - GPS: Merk. Penjelasan . . .
+  - Mic: Default dari hp
+  - GPS: Default dari hp
 - Responder 
   - tidak ada
 
