@@ -27,10 +27,10 @@ User story [[1]](https://www.mountaingoatsoftware.com/agile/user-stories) memuda
 |---|---|---|---|
 |Sebagai pengembang sistem|saya ingin memastikan bahwa sistem dapat melakukan pemrosesan data suara|sehingga sistem dapat mendeteksi kata-kata kunci yang mencurigakan dalam percakapan anak.|⭐⭐⭐⭐⭐|
 |Sebagai pengembang sistem|&raquo; saya ingin mengintegrasikan sensor GPS ke dalam perangkat pemantauan anak |sehingga saya dapat melacak lokasi anak dengan akurat.|⭐⭐⭐⭐⭐|
-|Sebagai pengembang sistem|&raquo; saya ingin memastikan sistem dapat mengirim data lokasi anak ke server cloud secara real-time melalui koneksi yang aman|⭐⭐⭐|
-|Sebagai pengembang sistem|&raquo; Merekognisi kondisi mental dan fisik dari suara dari mic|Bisa menjadi input kalkulasi respon yang sesuai untuk pengguna|⭐⭐⭐⭐|
-|Sebagai pengembang sistem|&raquo; Merekognisi kondisi lingkungan seperti jam, musim, cuaca, dan temperatur udara|Bisa menjadi input kalkulasi respon yang sesuai untuk pengguna|⭐⭐⭐⭐⭐|
-|Sebagai pengembang sistem|Memberikan respon yang membantu penyegaran kondisi mental dan fisik|Pengguna bisa lebih terbantu kondisi mental dan fisiknya|⭐⭐⭐⭐⭐|
+|Sebagai pengembang sistem|&raquo; saya ingin memastikan sistem dapat mengirim data lokasi anak ke server cloud secara real-time melalui koneksi yang aman|sehingga saya dapat menampilkan data response dan diproses menggunakan algoritma/AI lalu ditampilkan dalam bentuk laporan difront-end|⭐⭐⭐|
+|Sebagai pengembang sistem|&raquo; Mengatur Lock Aplikasi, Artinya orang tua bisa mengunci aplikasi dalam kurun waktu tertentu |Anak bisa kurang dalam bermain game/aplikasi yang tidak berguna|⭐⭐⭐⭐|
+|Sebagai pengembang sistem|&raquo; Menampilkan banyaknya waktu bermain sebuah aplikasi |Bisa memantau waktu bermain anak|⭐⭐⭐⭐⭐|
+|Sebagai pengembang sistem|menampilkan kata kunci atau apa saja yang anak ketik pada search engine seperti google atau yang lainnya |Orang tua  bisa lebih terbantu dalam memonitoring anak|⭐⭐⭐⭐⭐|
 |Sebagai pengembang sistem|&raquo; Memberikan respon berupa suara orang yang menyesuaikan kondisi fisik dan mental|Pengguna bisa lebih terbantu kondisi mental dan fisiknya|⭐⭐⭐⭐⭐|
 |Sebagai pengembang sistem|&raquo; Memberikan respon berupa musik latar yang menyesuaikan kondisi fisik dan mental|Pengguna bisa lebih terbantu kondisi mental dan fisiknya|⭐⭐⭐⭐|
 |Sebagai pengembang sistem|&raquo; Memberikan respon berupa pencahayaan yang menyesuaikan kondisi fisik dan mental|Pengguna bisa lebih terbantu kondisi mental dan fisiknya|⭐⭐⭐|
