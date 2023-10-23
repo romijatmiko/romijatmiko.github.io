@@ -132,8 +132,4 @@ Pada tahap ini kita menjelaskan setiap teknologi hardware dan software yang digu
 
 ## User Experience (UX) Design 
 
-[**LINK** (yang saya gunakan)]([https://inkscape.org/](https://www.figma.com/file/25X3nEDWY43rm7T8f03P2c/Untitled?type=design&node-id=0-1&mode=design&t=tARznfszltsGoiyb-0)https://www.figma.com/file/25X3nEDWY43rm7T8f03P2c/Untitled?type=design&node-id=0-1&mode=design&t=tARznfszltsGoiyb-0), 
-
-    </div> 
-
-  </body>
+[**LINK** (yang saya gunakan)]([https://inkscape.org/](https://www.figma.com/file/25X3nEDWY43rm7T8f03P2c/Untitled?type=design&node-id=0-1&mode=design&t=tARznfszltsGoiyb-0)https://www.figma.com/file/25X3nEDWY43rm7T8f03P2c/Untitled?type=design&node-id=0-1&mode=design&t=tARznfszltsGoiyb-0)
