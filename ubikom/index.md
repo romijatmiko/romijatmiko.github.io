@@ -33,7 +33,7 @@ User story [[1]](https://www.mountaingoatsoftware.com/agile/user-stories) memuda
 |Sebagai pengembang sistem|menampilkan kata kunci atau apa saja yang anak ketik pada search engine seperti google atau yang lainnya |Orang tua  bisa lebih terbantu dalam memonitoring anak|⭐⭐⭐⭐⭐|
 
 ## Metode dan Algoritma 
-Belum mikir
+Belum Pak
 
 ## Arsitektur Sistem 
 Belum
