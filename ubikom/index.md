@@ -44,7 +44,7 @@ User story [[1]](https://www.mountaingoatsoftware.com/agile/user-stories) memuda
 ## Database Design
 
 ## Arsitektur Sistem 
-![Untitled Diagram drawio (1)](https://github.com/romijatmiko/romijatmiko.github.io/assets/71611488/b8793237-e5fc-42b4-8d6a-803ea05d1e12)
+![Untitled Diagram drawio (2)](https://github.com/romijatmiko/romijatmiko.github.io/assets/71611488/35082c71-6f3d-4298-bdf8-f94a4f65808d)
 ## Deskripsi Teknologi 
 Pada tahap ini kita menjelaskan setiap teknologi hardware dan software yang digunakan dalam pembangunan sistem. Contoh:
 - Mesin komputasi
