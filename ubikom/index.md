@@ -40,6 +40,9 @@ User story [[1]](https://www.mountaingoatsoftware.com/agile/user-stories) memuda
 - Pengaturan Lock Aplikasi: Untuk mengatur waktu akses dan pembatasan aplikasi, sistem akan menggunakan algoritma manajemen waktu dan akses. Orang tua akan dapat mengunci akses ke aplikasi dalam kurun waktu tertentu.
 - Pemantauan Aktivitas Anak: Kami akan menggunakan algoritma pemantauan waktu bermain dan aktivitas anak. Ini akan memungkinkan sistem untuk melacak berapa lama anak bermain aplikasi tertentu dan memberikan laporan kepada orang tua.
 - Analisis Pencarian dan Aktivitas Online: Untuk menganalisis kata kunci dan apa yang anak ketik pada mesin pencarian seperti Google
+
+## Database Design
+
 ## Arsitektur Sistem 
 ![Untitled Diagram drawio (1)](https://github.com/romijatmiko/romijatmiko.github.io/assets/71611488/b8793237-e5fc-42b4-8d6a-803ea05d1e12)
 ## Deskripsi Teknologi 
