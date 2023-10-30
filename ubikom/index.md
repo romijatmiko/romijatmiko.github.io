@@ -59,7 +59,6 @@ Pada tahap ini kita menjelaskan setiap teknologi hardware dan software yang digu
   - Mic: Default dari hp
   - GPS: Default dari hp
 - Responder 
-  - tidak ada
 
 ## User Experience (UX) Design 
 [figma](https://www.figma.com/file/25X3nEDWY43rm7T8f03P2c/Untitled?type=design&node-id=0%3A1&mode=design&t=tARznfszltsGoiyb-1)
