@@ -10,7 +10,7 @@ Pada tahap ini kita mengeksplorasi *branding* dari produk UbiCom yang dibuat. Co
 - Merk: **SecureKids** 
 - Inspirasi merk: SecureKids merujuk pada keselamatan dan keamanan anak-anak. Ini mencerminkan fokus produk pada melindungi anak-anak dan memberikan rasa aman kepada orang tua.
 - Tagline: Pemantau Anak Cerdas, Keselamatan Prioritas
-- Campaign: Bagaimana menjadikan rumah / kostan / kontrakan dan perangkat wearable yang dimiliki sebagai pendukung penyegaran kondisi mental dan fisik
+- Campaign: 
 - Target user:
   - Seorang ayah/ ibu
   - Sibuk dan tidak punya waktu memantau anak
