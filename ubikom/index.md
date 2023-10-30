@@ -41,7 +41,7 @@ User story [[1]](https://www.mountaingoatsoftware.com/agile/user-stories) memuda
 - Pemantauan Aktivitas Anak: Kami akan menggunakan algoritma pemantauan waktu bermain dan aktivitas anak. Ini akan memungkinkan sistem untuk melacak berapa lama anak bermain aplikasi tertentu dan memberikan laporan kepada orang tua.
 - Analisis Pencarian dan Aktivitas Online: Untuk menganalisis kata kunci dan apa yang anak ketik pada mesin pencarian seperti Google
 ## Arsitektur Sistem 
-Belum
+![Untitled Diagram drawio (1)](https://github.com/romijatmiko/romijatmiko.github.io/assets/71611488/b8793237-e5fc-42b4-8d6a-803ea05d1e12)
 ## Deskripsi Teknologi 
 Pada tahap ini kita menjelaskan setiap teknologi hardware dan software yang digunakan dalam pembangunan sistem. Contoh:
 - Mesin komputasi
