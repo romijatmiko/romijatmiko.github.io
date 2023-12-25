@@ -3,48 +3,54 @@
 - 
 
 ## Latar Belakang 
-Dalam era modern, orang tua menghadapi tantangan besar dalam memantau dan memahami perkembangan anak-anak mereka. Dengan gaya hidup yang sibuk, komunikasi yang kurang dan perjalanan harian yang sering tidak terawasi, muncul kebutuhan akan solusi yang dapat memberikan pemantauan yang lebih efektif terhadap anak-anak. Dalam konteks ini, saya mengusulkan Inovasi SecureKids Aplikasi Mobile Pemantau Anak yang akan membantu orang tua memantau anak-anak mereka dengan lebih efisien dan efektif.
+Di era globalisasi ini, kekayaan budaya sering kali terlupakan, terutama oleh generasi muda yang tengah terjerat dalam arus teknologi dan tren modern. Salah satu warisan budaya Indonesia yang begitu indah dan bernilai tinggi adalah batik. Namun, disayangkan bahwa banyak anak-anak dan remaja tidak hanya kurang mengenal, tetapi bahkan mungkin lupa akan keelokan dan makna di balik kain tradisional ini.
+
+Batik, dengan pola-pola artistiknya yang unik, bukan sekadar pakaian, melainkan sebuah karya seni yang sarat dengan sejarah, nilai, dan makna budaya. Saat ini, seringkali batik dianggap sebagai pakaian formal atau simbol acara tertentu, tanpa pemahaman mendalam tentang filosofi yang melekat pada setiap motifnya. Oleh karena itu, perlu adanya usaha untuk mempertahankan dan memperkenalkan kembali keindahan budaya batik kepada generasi muda yang tengah terkoneksi erat dengan teknologi.
+
+"Batik Discover" hadir sebagai solusi untuk mengatasi tantangan ini. Dengan menyatukan tradisi dan teknologi, kami ingin membuka pintu gerbang ke dunia batik, memberikan pemahaman lebih mendalam, dan merayakan keindahan serta kompleksitas budaya yang terkandung di dalam setiap helai kain batik.
+
+Melalui Batik Discover, kami tidak hanya menciptakan sebuah aplikasi, tetapi juga menciptakan pengalaman budaya yang mendalam. Kami percaya bahwa dengan memahami dan menghargai warisan budaya kita, kita dapat membangun jembatan antara masa lalu dan masa depan, menjaga kelestarian batik, dan memberikan kesempatan kepada generasi mendatang untuk terhubung dengan akar budaya mereka.
 
 ## Branding 
 Pada tahap ini kita mengeksplorasi *branding* dari produk UbiCom yang dibuat. Contoh:
-- Merk: **SecureKids** 
-- Inspirasi merk: SecureKids merujuk pada keselamatan dan keamanan anak-anak. Ini mencerminkan fokus produk pada melindungi anak-anak dan memberikan rasa aman kepada orang tua.
-- Tagline: Pemantau Anak Cerdas, Keselamatan Prioritas
-- Campaign: 
-- Target user:
-  - Seorang ayah/ ibu
-  - Sibuk dan tidak punya waktu memantau anak
-  - Khawatir dengan tumbuh kembang anak
-  - Ingin mengawasi seluruh perkembangan anak
+- Merk: **Batik Discover** 
+- Inspirasi merk: Memadukan kekayaan tradisional dengan teknologi modern.
+- Tagline: Safeguarding Batik Culture for The Future
+- Campaign: Discover the Stories Woven in Every Thread
+- Target user: Anak-anak, remaja, dan siapa pun yang ingin menggali lebih dalam tentang seni dan budaya batik.
+
 - User experience theme:
   - Aplikasi Mobile Android
 
-## User Story
-Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk kita wujudkan sebagai fitur pada sistem atau aplikasi yang akan dibuat.
-User story [[1]](https://www.mountaingoatsoftware.com/agile/user-stories) memudahkan kita membuat prioritas fitur-fitur untuk dikerjakan untuk jangka waktu tertentu.
-
-|Sebagai|Saya ingin bisa|Sehingga|Prioritas
-|---|---|---|---|
-|Sebagai pengembang sistem|saya ingin memastikan bahwa sistem dapat melakukan pemrosesan data suara|sehingga sistem dapat mendeteksi kata-kata kunci yang mencurigakan dalam percakapan anak.|⭐⭐⭐⭐⭐|
-|Sebagai pengembang sistem|&raquo; saya ingin mengintegrasikan sensor GPS ke dalam perangkat pemantauan anak |sehingga saya dapat melacak lokasi anak dengan akurat.|⭐⭐⭐⭐⭐|
-|Sebagai pengembang sistem|&raquo; saya ingin memastikan sistem dapat mengirim data lokasi anak ke server cloud secara real-time melalui koneksi yang aman|sehingga saya dapat menampilkan data response dan diproses menggunakan algoritma/AI lalu ditampilkan dalam bentuk laporan difront-end|⭐⭐⭐|
-|Sebagai pengembang sistem|&raquo; Mengatur Lock Aplikasi, Artinya orang tua bisa mengunci aplikasi dalam kurun waktu tertentu |Anak bisa kurang dalam bermain game/aplikasi yang tidak berguna|⭐⭐⭐⭐|
-|Sebagai pengembang sistem|&raquo; Menampilkan banyaknya waktu bermain sebuah aplikasi |Bisa memantau waktu bermain anak|⭐⭐⭐⭐⭐|
-|Sebagai pengembang sistem|menampilkan kata kunci atau apa saja yang anak ketik pada search engine seperti google atau yang lainnya |Orang tua  bisa lebih terbantu dalam memonitoring anak|⭐⭐⭐⭐⭐|
-
 ## Metode dan Algoritma 
-- Pemrosesan Data Suara: Untuk mendeteksi kata-kata kunci yang mencurigakan dalam percakapan anak, menggunakan metode pemrosesan data suara dan algoritma pemrosesan bahasa alami (Natural Language Processing - NLP). Data suara diperoleh dari sensor mic pada hp android, ini akan memungkinkan sistem untuk menganalisis dan mengenali kata-kata yang tidak sesuai atau berpotensi berbahaya yang diucapkan oleh anak.
-- Pelacakan Lokasi: Untuk melacak lokasi anak dengan akurat, saya akan menggunakan GPS (Global Positioning System) pada perangkat anak. Algoritma pelacakan akan memungkinkan saya untuk mendapatkan data lokasi secara real-time dan mengirimkannya ke server pusat.
-- Report lokasi harian, menampilkan rekapan lokasi anak kemana saja
-- Report Kata-kata anak yang diucapkan, menampilkan rekapan kata2 anak dari algortima NLP
-- Pengaturan Lock Aplikasi: Untuk mengatur waktu akses dan pembatasan aplikasi, sistem akan menggunakan algoritma manajemen waktu dan akses. Orang tua akan dapat mengunci akses ke aplikasi dalam kurun waktu tertentu.
-- Pemantauan Aktivitas Anak: Kami akan menggunakan algoritma pemantauan waktu bermain dan aktivitas anak. Ini akan memungkinkan sistem untuk melacak berapa lama anak bermain aplikasi tertentu dan memberikan laporan kepada orang tua.
-- Analisis Pencarian dan Aktivitas Online: Untuk menganalisis kata kunci dan apa yang anak ketik pada mesin pencarian seperti Google
+-Pengenalan Pola Batik:
 
+Metode: Menggunakan Machine Learning (ML) untuk mendeteksi dan mengklasifikasikan pola batik dari gambar.
+Algoritma: Penerapan Transfer Learning dengan model VGG (Visual Geometry Group). Model dilatih menggunakan dataset gambar batik untuk mengenali pola-pola khas.
 ## Database Design
 
-## Arsitektur Sistem 
-![Untitled Diagram drawio (2)](https://github.com/romijatmiko/romijatmiko.github.io/assets/71611488/35082c71-6f3d-4298-bdf8-f94a4f65808d)
+-Augmentasi Data Gambar:
+
+Metode: Meningkatkan keragaman dataset pelatihan gambar batik.
+Algoritma: Menggunakan teknik augmentasi data seperti rotasi, pergeseran, dan flip horizontal untuk melatih model agar lebih umum dan tahan variasi pola batik.
+
+- Metode: Membangun model klasifikasi untuk mengidentifikasi jenis-jenis batik.
+Algoritma: Membangun lapisan-lapisan tambahan di atas model VGG, termasuk lapisan flatten, dense, dan batch normalization. Fungsi aktivasi softmax digunakan untuk klasifikasi multi-kelas.
+
+- Batik Community Forums:
+
+Fitur: Membangun forum komunitas untuk berbagi pengalaman dan pengetahuan tentang batik.
+Implementasi: Menggunakan platform forum online untuk memfasilitasi interaksi antar pengguna, termasuk opsi untuk mengunggah gambar batik dan berdiskusi tentang berbagai jenis dan pola batik.
+
+- Batik Event Info:
+
+Fitur: Memberikan informasi tentang acara-acara terkait batik.
+Implementasi: Menyediakan kalender acara di aplikasi Batik Discover, termasuk pameran batik, workshop, dan kegiatan budaya lainnya.
+10. Artikel tentang Batik:
+
+Fitur: Menyajikan artikel-informatif tentang sejarah, makna, dan perkembangan batik.
+Implementasi: Menyediakan bagian khusus yang berisi artikel-artikel terkait batik, dengan konten yang informatif dan edukatif.
+
 ## Deskripsi Teknologi 
 Pada tahap ini kita menjelaskan setiap teknologi hardware dan software yang digunakan dalam pembangunan sistem. Contoh:
 - Mesin komputasi
