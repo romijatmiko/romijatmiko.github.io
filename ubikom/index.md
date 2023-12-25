@@ -27,9 +27,8 @@ Pada tahap ini kita mengeksplorasi *branding* dari produk UbiCom yang dibuat. Co
 
 Metode: Menggunakan Machine Learning (ML) untuk mendeteksi dan mengklasifikasikan pola batik dari gambar.
 Algoritma: Penerapan Transfer Learning dengan model VGG (Visual Geometry Group). Model dilatih menggunakan dataset gambar batik untuk mengenali pola-pola khas.
-## Database Design
 
--Augmentasi Data Gambar:
+- Augmentasi Data Gambar:
 
 Metode: Meningkatkan keragaman dataset pelatihan gambar batik.
 Algoritma: Menggunakan teknik augmentasi data seperti rotasi, pergeseran, dan flip horizontal untuk melatih model agar lebih umum dan tahan variasi pola batik.
@@ -46,7 +45,7 @@ Implementasi: Menggunakan platform forum online untuk memfasilitasi interaksi an
 
 Fitur: Memberikan informasi tentang acara-acara terkait batik.
 Implementasi: Menyediakan kalender acara di aplikasi Batik Discover, termasuk pameran batik, workshop, dan kegiatan budaya lainnya.
-10. Artikel tentang Batik:
+- Artikel tentang Batik:
 
 Fitur: Menyajikan artikel-informatif tentang sejarah, makna, dan perkembangan batik.
 Implementasi: Menyediakan bagian khusus yang berisi artikel-artikel terkait batik, dengan konten yang informatif dan edukatif.
@@ -54,17 +53,16 @@ Implementasi: Menyediakan bagian khusus yang berisi artikel-artikel terkait bati
 ## Deskripsi Teknologi 
 Pada tahap ini kita menjelaskan setiap teknologi hardware dan software yang digunakan dalam pembangunan sistem. Contoh:
 - Mesin komputasi
-  - Cloud server: AWS EC2 Debian.
+  - Cloud server: GCP
   - Smart phone: Android Only
 - Database
-  - PostgreSQL
+  - Firebase
 - Software development
   - Mobile Front End: Kotlin.
-  - Backend stack: Belum Fix, tapi pastinya menggunakan bahasa python.
+  - Backend stack: NodeJs Hapi Js framework
 - Sensor 
-  - Mic: Default dari hp
-  - GPS: Default dari hp
-- Responder 
+  - Kamera: Default dari hp
 
 ## User Experience (UX) Design 
-[figma](https://www.figma.com/file/25X3nEDWY43rm7T8f03P2c/Untitled?type=design&node-id=0%3A1&mode=design&t=tARznfszltsGoiyb-1)
+![designz](https://github.com/romijatmiko/romijatmiko.github.io/assets/71611488/e7b36142-76eb-485b-8ba5-76f9dd15e82b)
+
