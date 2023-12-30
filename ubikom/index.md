@@ -1,6 +1,7 @@
 
 ## Intro 
 - Link Demo https://youtu.be/1UBCg3YR2wE
+- Source Code https://github.com/BatikDiscover/CH2-PS500
 
 ## Latar Belakang 
 Di era globalisasi ini, kekayaan budaya sering kali terlupakan, terutama oleh generasi muda yang tengah terjerat dalam arus teknologi dan tren modern. Salah satu warisan budaya Indonesia yang begitu indah dan bernilai tinggi adalah batik. Namun, disayangkan bahwa banyak anak-anak dan remaja tidak hanya kurang mengenal, tetapi bahkan mungkin lupa akan keelokan dan makna di balik kain tradisional ini.
