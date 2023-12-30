@@ -30,9 +30,6 @@ Algoritma: Penerapan Transfer Learning dengan model VGG (Visual Geometry Group).
 
 - Augmentasi Data Gambar:
 
-Metode: Meningkatkan keragaman dataset pelatihan gambar batik.
-Algoritma: Menggunakan teknik augmentasi data seperti rotasi, pergeseran, dan flip horizontal untuk melatih model agar lebih umum dan tahan variasi pola batik.
-
 - Metode: Membangun model klasifikasi untuk mengidentifikasi jenis-jenis batik.
 Algoritma: Membangun lapisan-lapisan tambahan di atas model VGG, termasuk lapisan flatten, dense, dan batch normalization. Fungsi aktivasi softmax digunakan untuk klasifikasi multi-kelas.
 
