@@ -287,7 +287,7 @@ h6 {
 
 #hero:before {
   content: "";
-  background: rgba(29, 29, 29, 0.8);
+  background: rgba(255, 255, 255, 0.8);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -1242,7 +1242,9 @@ body {
 #header {
   background-color: var(--bg-color);
 }
-
+#hero:before {
+  background-color: var(--bg-color);
+}
 .section-bg {
   background-color: var(--bg-color);
 }
