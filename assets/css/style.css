@@ -1239,7 +1239,9 @@ body {
   color: var(--text-color);
   transition: all 0.3s ease;
 }
-
+#hero {
+  background-color: var(--text-color);
+}
 #header {
   background-color: var(--bg-color);
 }
@@ -1260,7 +1262,6 @@ body {
   background-color: var(--card-bg);
 }
 
-/* Dark mode toggle button */
 .theme-toggle {
   position: fixed;
   right: 15px;
