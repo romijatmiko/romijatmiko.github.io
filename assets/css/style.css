@@ -1244,19 +1244,19 @@ body {
 }
 
 .section-bg {
-  background-color: var(--section-bg);
+  background-color: var(--bg-color);
 }
 
 .resume .resume-item {
-  background-color: var(--card-bg);
+  background-color: var(--bg-color);
 }
 
 .portfolio .portfolio-wrap {
-  background-color: var(--card-bg);
+  background-color: var(--bg-color);
 }
 
 .services .icon-box {
-  background-color: var(--card-bg);
+  background-color: var(--bg-color);
 }
 
 .theme-toggle {
