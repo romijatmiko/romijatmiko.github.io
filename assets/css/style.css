@@ -1217,3 +1217,67 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+:root {
+  --primary-color: #0563bb;
+  --bg-color: #fff;
+  --text-color: #272829;
+  --section-bg: #f5f8fd;
+  --card-bg: #fff;
+}
+
+html.dark {
+  --primary-color: #64b5ff;
+  --bg-color: #1a1a1a;
+  --text-color: #ffffff;
+  --section-bg: #2d2d2d;
+  --card-bg: #333333;
+}
+
+/* Apply variables */
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: all 0.3s ease;
+}
+
+#header {
+  background-color: var(--bg-color);
+}
+
+.section-bg {
+  background-color: var(--section-bg);
+}
+
+.resume .resume-item {
+  background-color: var(--card-bg);
+}
+
+.portfolio .portfolio-wrap {
+  background-color: var(--card-bg);
+}
+
+.services .icon-box {
+  background-color: var(--card-bg);
+}
+
+/* Dark mode toggle button */
+.theme-toggle {
+  position: fixed;
+  right: 15px;
+  top: 15px;
+  z-index: 9999;
+  background: var(--primary-color);
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border: none;
+  color: white;
+}
+
+.theme-toggle i {
+  font-size: 20px;
+}

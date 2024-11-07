@@ -51,6 +51,9 @@
   <section id="hero" class="d-flex flex-column justify-content-center">
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
       <h4>Hello, My Name Is</h4>
+      <button class="theme-toggle" onclick="toggleTheme()">
+        <i class="bi bi-moon-fill" id="theme-icon"></i>
+      </button>
       <h1>Romi Jatmiko</h1>
       <p>I <span class="typed" data-typed-items="am currently learning Android developer, enjoy playing RPG and MOBA games, like watching movie or anime"></span></p>
       <div class="social-links">
@@ -388,7 +391,31 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+    <script>
+      // Check for saved theme preference
+      const savedTheme = localStorage.getItem('theme') || 'light';
+      document.documentElement.className = savedTheme;
+      updateThemeIcon(savedTheme);
 
+      function toggleTheme() {
+        const html = document.documentElement;
+        const currentTheme = html.className;
+        const newTheme = currentTheme === 'light' ? 'dark' : 'light';
+
+        html.className = newTheme;
+        localStorage.setItem('theme', newTheme);
+        updateThemeIcon(newTheme);
+      }
+
+      function updateThemeIcon(theme) {
+        const icon = document.getElementById('theme-icon');
+        if (theme === 'dark') {
+          icon.className = 'bi bi-sun-fill';
+        } else {
+          icon.className = 'bi bi-moon-fill';
+        }
+      }
+    </script>
 </body>
 
 </html>
