@@ -287,7 +287,7 @@ h6 {
 
 #hero:before {
   content: "";
-  background-color: var(--bg-color);
+  background: var(--hero-bg);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -1220,6 +1220,7 @@ section {
 :root {
   --primary-color: #0563bb;
   --bg-color: #fff;
+  --hero-bg: rgba(255, 255, 255, 0.8);
   --text-color: #272829;
   --section-bg: #f5f8fd;
   --card-bg: #fff;
@@ -1227,6 +1228,7 @@ section {
 
 html.dark {
   --primary-color: #64b5ff;
+  --hero-bg: rgba(000, 000, 000, 0.8);
   --bg-color: #1a1a1a;
   --text-color: #ffffff;
   --section-bg: #2d2d2d;
